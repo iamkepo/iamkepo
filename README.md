@@ -8,7 +8,7 @@
 <br />
 ### Sites:
 <br />
-Portfolio: https://iamkepo.github.io/iamkepo/
+Portfolio: https://iamkepo.github.io/portfolie/
 <br />
 word cube three js: https://iamkepo.github.io/w_cube/
 <br />
