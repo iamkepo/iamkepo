@@ -10,9 +10,9 @@
 <br />
 Portfolio: https://iamkepo.github.io/portfolio/
 <br />
-word cube three js: https://iamkepo.github.io/w_cube/
+Zappe landing page: https://zappe.herokuapp.com/
 <br />
-word sphere three js: https://iamkepo.github.io/w_sphere/
+word cube three js: https://iamkepo.github.io/w_cube/
 <br />
 game pixelswar socket.io express js: https://pixelswar.herokuapp.com/
 <br />
