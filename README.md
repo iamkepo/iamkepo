@@ -12,6 +12,7 @@ Portfolio: https://iamkepo.github.io/portfolio/
 <br />
 word cube three js: https://iamkepo.github.io/w_cube/
 <br />
+meals planner : https://meals-planner-mu.vercel.app
 <br />
 <br />
 ### Languages and Tools:
