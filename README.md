@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Christ-Amour KAKPO ( @iamkepo )
-- 👀 I’m interested in dev front-end web and mobile
-- 🌱 I’m currently learning three JS
-- 💞️ I’m looking to collaborate on React Js and React Native App
 - 📫 How to reach me christamour.kakpo@gmail.com
 
 <br />
