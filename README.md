@@ -5,11 +5,7 @@
 <br />
 ### Sites:
 <br />
-Portfolio: https://iamkepo.github.io/portfolio/
-<br />
-word cube three js: https://iamkepo.github.io/w_cube/
-<br />
-e-cantine : https://e-cantine.vercel.app
+links: https://iamkepo.github.io/links/
 <br />
 <br />
 ### Languages and Tools:
